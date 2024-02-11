@@ -28,6 +28,13 @@
 
 </a>
 
+<a href="https://github.com/Kwak-Minju/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/Kwak-Minju/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Kwak-Minju/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D6E4EA&height=150&section=footer" />
 
 
