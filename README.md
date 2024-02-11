@@ -6,7 +6,7 @@
 ### About Me
 -->
 <h3 align="center"> ✏️Skills </h3>
-
+<p align="center">
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
@@ -21,7 +21,7 @@
 ![Static Badge](https://img.shields.io/badge/Terraform-%23844FBA?style=flat&logo=terraform&logoColor=white)
 <br/>
 ![Static Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=Github%20Actions&logoColor=FFFFFF)
-
+</p>
 
 <a href="https://github.com/Kwak-Minju/github-stats-transparent">
 
