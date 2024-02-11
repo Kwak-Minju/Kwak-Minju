@@ -15,16 +15,14 @@
   <img src="https://img.shields.io/badge/Python3-3776AB?logo=Python&logoColor=%23FFFFFF"/>
   <img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=%23FFFFFF"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-%23844FBA?style=flat&logo=terraform&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"/>
   
-  ![Static Badge](https://img.shields.io/badge/Python3-3776AB?logo=Python&logoColor=%23FFFFFF) 
-  ![Static Badge](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=%23FFFFFF)
-  ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
-  <br>
-  ![Static Badge](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Terraform-%23844FBA?style=flat&logo=terraform&logoColor=white)
-  <br>
   ![Static Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=Github%20Actions&logoColor=FFFFFF)
 </p>
 
