@@ -1,4 +1,13 @@
 ### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwak-Minju&show_icons=true&theme=shadow_blue)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
+
+
+
+
+
 
 <!--
 **Kwak-Minju/Kwak-Minju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwak-Minju&show_icons=true&theme=shadow_blue)
+
