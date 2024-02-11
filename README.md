@@ -6,9 +6,18 @@
 
 ### ⌨️ Skills
 
+- Front-end
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
+- Backend
+![Static Badge](https://img.shields.io/badge/Python3-3776AB?logo=Python&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=%23FFFFFF)
+- Database
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
+- Infra
+![Static Badge](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+- CI/CD
+![Static Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=Github%20Actions&logoColor=FFFFFF)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-Minju&layout=compact"><br><br>
 
