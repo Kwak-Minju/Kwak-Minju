@@ -2,6 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D6E4EA&height=150&section=header" />
 
 ### 👋 Introduction
+## 안녕하세요! 
+
+### ⌨️ Skills
+## 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-Minju&layout=compact"><br><br>
 
