@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=Github%20Actions&logoColor=FFFFFF"/>
 </p>
 
-<a href="https://github.com/Kwak-Minju/github-stats-transparent">
+<a href="https://github.com/Kwak-Minju/github-stats-transparent" align="center">
 
 ![](https://raw.githubusercontent.com/Kwak-Minju/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Kwak-Minju/github-stats-transparent/output/generated/languages.svg)
