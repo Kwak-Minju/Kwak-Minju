@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Python3-3776AB?logo=Python&logoColor=%23FFFFFF"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=%23FFFFFF"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"/>
+  
   ![Static Badge](https://img.shields.io/badge/Python3-3776AB?logo=Python&logoColor=%23FFFFFF) 
   ![Static Badge](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=%23FFFFFF)
   ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
