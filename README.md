@@ -7,8 +7,8 @@
 ### ⌨️ Skills
 
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-Minju&layout=compact"><br><br>
 
