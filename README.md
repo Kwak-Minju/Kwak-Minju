@@ -7,8 +7,8 @@
 -->
 <h3 align="center"> ✏️Skills </h3>
 <p align="center">
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)
   
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)  
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
