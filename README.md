@@ -3,6 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-Minju)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-Minju&layout=compact"><br><br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwak-Minju&show_icons=true&theme=shadow_blue)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D6E4EA&height=150&section=footer" />
