@@ -1,5 +1,7 @@
-### Hi there 👋
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D6E4EA&height=150&section=header" />
+
+### 👋 Introduction
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwak-Minju&layout=compact"><br><br>
 
