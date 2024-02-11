@@ -9,9 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
-
 <br/>
-
 ![Static Badge](https://img.shields.io/badge/Python3-3776AB?logo=Python&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
 <br/>
