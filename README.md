@@ -1,9 +1,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D6E4EA&height=150&section=header" />
-
+<!--
 ### 👋 Introduction
 #### 안녕하세요! 새로운 기술에 도전하고 학습하는 것을 좋아합니다. 다양한 시점으로 문제를 인식하고 해결하고자 노력합니다.  
 ### About Me
+-->
+
 ### ✏️Skills
 
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)
