@@ -5,8 +5,7 @@
 #### 안녕하세요! 새로운 기술에 도전하고 학습하는 것을 좋아합니다. 다양한 시점으로 문제를 인식하고 해결하고자 노력합니다.  
 ### About Me
 -->
-
-### ✏️Skills
+<h3 align="center"> ✏️Skills </h3>
 
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
